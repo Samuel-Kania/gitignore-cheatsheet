@@ -15,4 +15,4 @@ __pycache__/
 .pytest_cache
 
 #Ignore read me file
-README
+README  
